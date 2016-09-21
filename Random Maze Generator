@@ -10,7 +10,7 @@ import java.util.Random;
 
 /**
  *
- * @author kerem
+ * @author kerem & mert
  */
 public class Cubes {
 
